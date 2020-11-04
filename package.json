@@ -1,0 +1,17 @@
+{
+  "name": "axios-polymorphic-deserialization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.6",
+    "axios": "^0.21.0",
+    "jackson-js": "^1.1.0",
+    "prettier": "^2.1.2"
+  }
+}
